@@ -1,4 +1,4 @@
-#Maze Runner Game - COAL Project 2024
+**Maze Runner Game - COAL Project 2024**
 🎮 A classic maze-running game, crafted in pure x86 Assembly Language 🚀. Explore procedurally generated mazes, collect power-ups, dodge enemies, and race against time in this retro-style adventure!
 
 ✨ Features:
